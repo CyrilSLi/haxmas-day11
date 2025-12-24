@@ -1,0 +1,8 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.page-header:hover {
+	transform: scale(1.1);
+}
